@@ -4,7 +4,7 @@
 <h1 align="center">Hi, I'm AnizoneBN</h1><hr>
 <h3 align="center">A passionate developer & Programmer</h3>
 
-
+![logo](https://github.com/AnizoneBN/AnizoneBN/blob/main/46207-programmer-1.gif)
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=anizonebn&label=Profile%20views&color=0e75b6&style=flat" alt="anizonebn" /> </p>
 
